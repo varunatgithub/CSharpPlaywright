@@ -1,0 +1,15 @@
+{
+  "bindingCulture": {
+    "name": "en-US"
+  },
+  "language": {
+    "feature": "en-US"
+  },
+  "stepAssemblies": [
+    { "assembly": "PlaywrightSpecFlowFramework.Tests" }
+  ],
+  "livingDocGenerator": {
+    "enabled": true,
+    "filePath": "LivingDoc.html"
+  }
+}
